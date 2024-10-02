@@ -1,13 +1,13 @@
 {
     "server": {
-        "port": 5000
+        "port": 5500
     },
     "db":
     {
         "host": "localhost",
         "database": "restaurante_db",
         "user": "root",
-        "passaword": ""
+        "password": ""
     }
 
 }
