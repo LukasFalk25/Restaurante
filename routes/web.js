@@ -15,4 +15,9 @@ router.get("/tipoproduto", (req, res) => {
     });
 });
 
+router.get("/recurso", (req, res) => {
+    res.render("Recurso/index");
+   
+});
+
 module.exports = router;
